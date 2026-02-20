@@ -1,0 +1,6 @@
+# Runtime dependencies - installed by AgentCore during Direct Code Deploy.
+# Keep this minimal: only what agent/travel_agent.py imports directly.
+# Do NOT add bedrock-agentcore-starter-toolkit here (deploy tooling, not runtime).
+bedrock-agentcore>=0.1.0
+strands-agents>=1.0.0
+boto3>=1.39.7

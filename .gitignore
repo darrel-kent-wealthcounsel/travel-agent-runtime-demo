@@ -1,0 +1,14 @@
+# Credentials — never commit
+.env
+
+# AgentCore generated deployment artifacts
+.bedrock_agentcore.yaml
+Dockerfile
+.dockerignore
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
