@@ -12,3 +12,4 @@ __pycache__/
 *.pyc
 *.egg-info/
 dist/
+.bedrock_agentcore/
